@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tahereh 👋</h1>
 
 <p align="center">
-  <b>A software Student</b>
+  <b>Software Engineering Researcher</b>
 </p>
 
 ---
